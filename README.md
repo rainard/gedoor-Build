@@ -2,11 +2,11 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.21.050918.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.21.050918/legado-3.21.050918.apk) 上次构建时间:2021-05-09 20:34:28
+> 最新构建下载:[legado-3.21.051020.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.21.051020/legado-3.21.051020.apk) 上次构建时间:2021-05-10 20:35:16
 <!--start-->
-> **2021/05/09**
-> * 网页访问404依然返回body
-> * 添加书籍批量导出
+> **2021/05/10**
+> * 修复书签bug
+> * 修改弃用类ViewPager
 <!--end-->
   
 1. fork到你自己的仓库

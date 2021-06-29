@@ -2,10 +2,10 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.21.062909.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.21.062909/legado-3.21.062909.apk) 上次构建时间:2021-06-29 14:27:51
+> 最新构建下载:[legado-3.21.062920.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.21.062920/legado-3.21.062920.apk) 上次构建时间:2021-06-30 02:26:17
 <!--start-->
 > **2021/06/29**
-> * 修复简介多了几个空格的问题,是因为格式话做了缩进
+> * 修复html格式化bug
 > * 订阅界面webView支持css prefers-color-scheme: dark 查询,需webView v76或更高版本
 > * 如webView低于v76可以用js调用activity.isNightTheme()来获取当前是否暗模式
 > * 修复一些书籍导出epub失败 by ag2s20150909

@@ -2,7 +2,7 @@
 
 > 默认从最新发布的tag构建,每次构建会自动清空18PlusList.txt
 
-> 最新构建下载:[legado-3.23.032021.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.23.032021/legado-3.23.032021.apk) 上次构建时间:2023-03-21 02:25:30
+> 最新构建下载:[legado-3.23.032112.apk](https://github.com/rainard/gedoor-Build/releases/download/legado-3.23.032112/legado-3.23.032112.apk) 上次构建时间:2023-03-21 20:34:15
 <!--start-->
 > **2023/03/19**
 > 
